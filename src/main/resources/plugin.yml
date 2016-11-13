@@ -1,5 +1,5 @@
 name: BlockBuffer
-main: net.projectzombie.block_buffer.main.Main
+main: net.projectzombie.blockbuffer.main.Main
 version: 1.0
 commands:
   bb:

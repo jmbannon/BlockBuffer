@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.block_buffer.buffer;
+package net.projectzombie.blockbuffer.buffer;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;

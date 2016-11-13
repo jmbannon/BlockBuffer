@@ -18,9 +18,9 @@
  *
  */
 
-package net.projectzombie.block_buffer.main;
+package net.projectzombie.blockbuffer.main;
 
-import net.projectzombie.block_buffer.controller.RestoreController;
+import net.projectzombie.blockbuffer.controller.RestoreController;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

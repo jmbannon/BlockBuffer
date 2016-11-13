@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.block_buffer.controller;
+package net.projectzombie.blockbuffer.controller;
 
-import net.projectzombie.block_buffer.buffer.Buffer;
+import net.projectzombie.blockbuffer.buffer.Buffer;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Map;
-import net.projectzombie.block_buffer.buffer.Serialize;
-import net.projectzombie.block_buffer.buffer.Utilities;
-import net.projectzombie.block_buffer.main.Main;
+import net.projectzombie.blockbuffer.buffer.Serialize;
+import net.projectzombie.blockbuffer.buffer.Utilities;
+import net.projectzombie.blockbuffer.main.Main;
 import org.bukkit.Chunk;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;

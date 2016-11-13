@@ -18,7 +18,7 @@
  *
  */
 
-package net.projectzombie.block_buffer.buffer;
+package net.projectzombie.blockbuffer.buffer;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package net.projectzombie.block_buffer.buffer;
+package net.projectzombie.blockbuffer.buffer;
 
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import net.projectzombie.block_buffer.main.Main;
+import net.projectzombie.blockbuffer.main.Main;
 import org.bukkit.block.Block;
 import org.bukkit.plugin.Plugin;
 

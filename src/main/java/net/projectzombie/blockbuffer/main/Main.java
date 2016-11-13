@@ -18,15 +18,15 @@
  *
  */
 
-package net.projectzombie.block_buffer.main;
+package net.projectzombie.blockbuffer.main;
 
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import net.projectzombie.block_buffer.buffer.Buffer;
-import net.projectzombie.block_buffer.controller.RestoreController;
+import net.projectzombie.blockbuffer.buffer.Buffer;
+import net.projectzombie.blockbuffer.controller.RestoreController;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
